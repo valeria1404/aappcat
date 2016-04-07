@@ -1,0 +1,37 @@
+#u8042
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #2673B9;
+	position: relative;
+}
+
+#u8045-4
+{
+	line-height: 43px;
+	color: #FFFFFF;
+	font-size: 36px;
+	font-weight: bold;
+	position: relative;
+}
+
+#u8043,#u8046-8
+{
+	position: relative;
+}
+
+#u8046-2
+{
+	font-size: 8px;
+	line-height: 10px;
+	color: #7F7F7F;
+	font-weight: bold;
+}
+
+#u8046-3,#u8046-5
+{
+	font-size: 8px;
+	line-height: 10px;
+	color: #7F7F7F;
+}
+
